@@ -5,3 +5,5 @@ logfile.count
 /build
 /cassandra_range_repair.egg-info
 /.idea
+debian/.debhelper
+debian/rangerepair*
